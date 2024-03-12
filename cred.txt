@@ -1,0 +1,5 @@
+username : root
+password : root
+
+email : admin@estore.com
+code : 123456
